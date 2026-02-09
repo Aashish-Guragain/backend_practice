@@ -1,0 +1,6 @@
+MERN
+
+M = Mongoose (no SQL database --data always store in key value format)
+E = Express (server)
+R = React (frontEnd-- always client side)
+N = NodeJS(Backend framework-- uses JS language )
